@@ -79,3 +79,11 @@ Add to Cart
 Checkout
   ↓
 Purchase
+
+## Results & Key Insights
+
+- **Variant outperformed Control** with consistently higher conversion across the analyzed segments.
+- Observed **conversion uplift ranged from ~13% to ~38%**, with the strongest uplift among the **18–24 age group (+38.31%)**.
+- Variant showed **stronger downstream funnel progression**, particularly toward Checkout and Purchase.
+- Variant generated **higher revenue**, while Average Order Value remained broadly similar.
+- **Overall:** The Variant is the stronger-performing experience and should be considered for rollout if the A/B test confirms statistical significance.
